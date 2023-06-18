@@ -12,3 +12,4 @@ their original site.
 check me out on replit
 d3ch, dachxd, and dach7
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3ch)](https://github.com/anuraghazra/github-readme-stats)
