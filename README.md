@@ -1,13 +1,15 @@
 ### me
-wsg im dachxd 
+[👋] wsg im dachxd 
 
-its pronounced dAH-tch (like match but with a d)
+ its pronounced dAH-tch (like match but with a d)
 
-creator of h3ll (v1), hell.2 (v2), and hell (v2 or v3)
-solo coder it'd be nice to colab.
+[💯] creator of hell v3
 
-ik sm html and how to get games from 
-their original site.
+[🤓] ik sm html and wtv unity language is
+
+
+
+## if you're costco gtdo my page you a poopyhead 😡
 
 check me out on replit
 d3ch, dachxd, and dach7
