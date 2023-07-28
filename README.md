@@ -1,16 +1,32 @@
-### me
-[👋] wsg im dachxd 
 
- its pronounced dAH-tch (like match but with a d)
+## [👋] wsg im dachxd 
 
-[💯] creator of hell v3
+its pronounced dAH-tch (like match but with a d)
 
-[🤓] ik sm html and wtv unity language is
+[💯] Game developer, learning web development, and owner of [Hell v3](https://he1l.netlify.app)
 
 
+[👨‍💻] html, css, c#, and barely any python. Proffesional chat gpt user
 
-## if you're costco gtdo my page you a poopyhead 😡
+#
 
-check me out on replit
-d3ch, dachxd, and dach7
+## External Sources
+
+
+check me out on replit -->
+[D3ch](https://replit.com/@d3ch) and [dachxd](https://replit.com/@dachxd)
+
+also check out my itch.io -->
+[dach7](https://dach7.itch.io)
+
+
+### if you're costco gtdo my page you a poopyhead 😡
+
+
+
+
+
+
+
+
 
