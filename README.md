@@ -3,7 +3,7 @@
 
 pronunciation: dAH-tch (like match but with a d)
 
-[💯] knife flipper, coder occasionally, and creator of [hell v3](https://github.com/d3ch/hell
+[💯] knife flipper, coder occasionally, and creator of [hell v3](https://github.com/d3ch/hell)
 
 
 [👨‍💻] html, css, js (learning), and some python. 
