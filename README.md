@@ -1,12 +1,12 @@
 
-## [👋] wsg im dach
+## [👋] im dach
 
 pronunciation: dAH-tch (like match but with a d)
 
-[💯] game dev(?), learning c# + javascript, and creator of [hell v3](https://he1l.netlify.app)
+[💯] knife flipper, coder occasionally, and creator of [hell v3](https://github.com/d3ch/hell
 
 
-[👨‍💻] html, css, c# (not fluent), and some python. 
+[👨‍💻] html, css, js (learning), and some python. 
 
 #
 
@@ -19,7 +19,7 @@ replit -->
 itch.io -->
 [dach7](https://dach7.itch.io)
 
-[general info](https://shuttle.rip/xd)
+[me but website](https://math3.rsvp)
 
 
 ### i hate costco
